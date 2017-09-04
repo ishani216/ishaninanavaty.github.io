@@ -13,14 +13,7 @@
 			My career goals are to become a computer programmer and get my bachelor’s degree  one day.  I will show up on time and put forth my best effort every day. I believe that anything can be achieved through hard work and dedication. I hope to receive a good education and use my own skills to make a difference in the world. No matter what profession I enter in my career, I hope that I can walk away knowing I made a difference in someone’s life.  I will always have a positive attitude and do the task given to me to the fullest.
 		</p>
 
-		<p>
-			You probably know about Progressive Insurance because of their commercials
-			which feature "Flo", the extremely perky saleswoman in the white apron:
-		</p>
-
-		<img src="flo.jpg" width="200px" height="200px" />
-
-		<p>
+		
 			Over the years I have been interested in making scrapbooks. Which is a method, 
       an art for preserving, presenting, arranging personal and family history in the form of a book, box, card.
 		</p>
